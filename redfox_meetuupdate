@@ -4,12 +4,12 @@
    "onback_adshow":"",
    "APP_SETTINGS":{
       "app_privacyPolicyLink":"",
-      "app_adShowStatus":"",
+      "app_adShowStatus":"1",
        "applovin_fberrorshow":""
    },
    "PLACEMENT":{
       "Admob":{
-"ad_showAdStatus":"",
+"ad_showAdStatus":"1",
           "AppID":"ca-app-pub-2112447981426945~5651630314",
          "Banner1":"",
          "Interstitial1":"ca-app-pub-2112447981426945/7544447869",
