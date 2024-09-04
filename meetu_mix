@@ -8,7 +8,7 @@
    },
    "PLACEMENT":{
       "Admob":{
-         "ad_showAdStatus":"",
+         "ad_showAdStatus":"1",
           "AppID":"ca-app-pub-9163497825173896~3642787993",
          "Banner1":"ca-app-pub-3940256099942544/9214589741",
          "Interstitial1":"ca-app-pub-3940256099942544/1033173712",
