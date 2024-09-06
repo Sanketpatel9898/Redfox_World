@@ -8,7 +8,7 @@
    },
    "PLACEMENT":{
       "Admob":{
-         "ad_showAdStatus":"1",
+         "ad_showAdStatus":"",
 
          "AppID":"ca-app-pub-2112447981426945~5651630314",
          "Banner1":"ca-app-pub-2112447981426945/9786543728",
@@ -19,7 +19,7 @@
 
       },
       "Facebookaudiencenetwork":{
-         "ad_showAdStatus":"",
+         "ad_showAdStatus":"1",
           "Banner1":"IMG_16_9_APP_INSTALL#2878741535625035_2880794092086446",
          "Interstitial1":"IMG_16_9_APP_INSTALL#2878741535625035_2878743112291544",
          "Interstitial2":"IMG_16_9_APP_INSTALL#2878741535625035_2880794645419724",
